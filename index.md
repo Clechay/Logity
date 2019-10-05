@@ -2,6 +2,18 @@
 #### Czwartek, 18:00, pl. Jana Pawła, prowadzący: Łukasz i Mateusz
 
 
+## 10.10.2019r. - Czwarte zajęcia
+#### Plan zajęć:
+
+* praktyka
+	* sortowanie owiec
+* teoria
+	* `querySelector` i `querySelectorAll`
+	* `innerText` vs `innerHtml` vs `label` vs `text` vs `textContent` vs `outerText`
+* praktyka
+	* interaktywna wyszukiwarka owiec
+
+
 ## 03.10.2019r. - Trzecie zajęcia
 #### Zrealizowany plan zajęć:
 
@@ -13,7 +25,8 @@
 	* mapowanie owiec w ich reprezentacje
 	* łączenie tablicy metodą `Array.prototype.join`
 	* wstrzyknięcie owiec do wcześniej spreparowanego tagu
-
+#### Uwagi
+* Uczniowie chcą zaczynać i kończyć zajęcia możliwie najwcześniej pomimo że się spóźniają
 
 
 ## 26.09.2019r. - Drugie zajęcia
