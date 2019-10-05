@@ -1,3 +1,14 @@
 .test{
 	background-color: blueviolet;
 }
+
+li:last-child{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a[href*="pl"]{
+	color: #e9606c;
+}
+a[href*="en-US"]{
+	color: #5caef1;
+}
