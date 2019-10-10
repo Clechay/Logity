@@ -12,6 +12,8 @@
 	* `innerText` vs `innerHtml` vs `label` vs `text` vs `textContent` vs `outerText`
 * praktyka
 	* interaktywna wyszukiwarka owiec
+		* sortowanie i wyszukiwanie
+		* na cały pozostały czas zajęć, jeżeli temat nie zostanie wyczerpany to rozciągnie się na następne zajęcia
 
 #### Materiały do zajęć
 
