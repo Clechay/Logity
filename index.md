@@ -13,6 +13,12 @@
 * praktyka
 	* interaktywna wyszukiwarka owiec
 
+#### Materiały do zajęć
+
+* lista 6003 owiec
+	* .js - plik który trzeba zalinkować przed swoim skryptem [randomSheeps.js](./randomSheeps.js)
+		* jest już zalinkoany w tym dokumencie i można go przerobić na swoje rozwiązanie
+	* .json - plik który trzeba pobrać funkcją fetch i następnie przepasować  [randomSheeps.json](./randomSheeps.json)
 
 ## 03.10.2019r. - Trzecie zajęcia
 #### Zrealizowany plan zajęć:
