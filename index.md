@@ -1,5 +1,14 @@
 # Organizacja zajęć
-#### Czwartek, 18:00, pl. Jana Pawła, prowadzący: Łukasz i Mateusz
+#### Czwartek, 18:00, pl. Jana Pawła, prowadzący: Łukasz ~~i Mateusz~~
+
+
+## 10.10.2019r. - Piąte zajęcia
+#### Plan zajęć:
+* praktyka
+	* sprawdzenie pracy domowej
+	* dokończenie wyszukiwarki owiec
+* teoria
+	* wprowadzenie/powtórka elementów WebAPI
 
 
 ## 10.10.2019r. - Czwarte zajęcia
